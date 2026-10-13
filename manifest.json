@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Glassify",
+    "description": "A fluid glassmorphic Spicetify theme with transparency, blur, and a sleek modern design.",
+    "preview": "assets/images/base.png",
+    "readme": "README.md",
+    "usercss": "https://spicetify-glassify.sanooj.uk/spice/user.css",
+    "schemes": "https://spicetify-glassify.sanooj.uk/spice/color.ini",
+    "include": ["https://spicetify-glassify.sanooj.uk/spice/theme.js"],
+    "authors": [
+      {
+        "name": "Aryan Ranjan"
+      }
+    ],
+    "tags": ["glass", "modern", "fluid", "transparent", "blur"]
+  }
+]
